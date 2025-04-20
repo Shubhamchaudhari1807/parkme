@@ -16,17 +16,17 @@ A **Flutter-based Smart Parking App** that simplifies urban parking with real-ti
 
 📍 **Nearby Parking Stations on Map**  
 - Integrated Google Maps API to show real-time nearby parking locations  
-  ![Maps](https://github.com/Shubhamchaudhari1807/parkme/blob/main/images/maps.png)  
+  ![Maps](https://github.com/Shubhamchaudhari1807/parkme/assets/images/maps.png)  
   *The map view showing available parking spots in real-time.*
 
 📅 **Book Slots**  
 - Select, view, and reserve available parking slots  
-  ![App Home](https://github.com/Shubhamchaudhari1807/parkme/blob/main/images/app-home.png)  
+  ![App Home](https://github.com/Shubhamchaudhari1807/parkme/assets/images/app-home.png)  
   *The app’s home screen showing the main dashboard with navigation options.*
 
 💸 **Online Payments**  
 - Complete booking via Razorpay API for a secure and fast transaction  
-  ![Payment Mode Selection](https://github.com/Shubhamchaudhari1807/parkme/blob/main/images/payment-mode-selection.png)  
+  ![Payment Mode Selection](https://github.com/Shubhamchaudhari1807/parkme/assets/images/payment-mode-selection.png)  
   *The payment mode selection screen, allowing users to choose their preferred method.*
 
 📊 **Real-Time Updates**  
