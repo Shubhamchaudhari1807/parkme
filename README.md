@@ -55,7 +55,9 @@ A **Flutter-based Smart Parking App** that simplifies urban parking with real-ti
 ### Installation Steps
 
 ```bash
-git clone https://github.com/your-username/smart-parking-app.git
-cd smart-parking-app
+git clone https://github.com/Shubhamchaudhari1807/parkme.git
+
+cd parkme
+
 flutter pub get
 
