@@ -26,7 +26,7 @@ A **Flutter-based Smart Parking App** that simplifies urban parking with real-ti
 
 💸 **Online Payments**  
 - Complete booking via Razorpay API for a secure and fast transaction  
-  ![Payment Mode Selection](https://github.com/Shubhamchaudhari1807/parkme/blob/main/assets/images/payment-mode-selection.png)  
+  ![Payment Mode Selection](https://github.com/Shubhamchaudhari1807/parkme/blob/main/assets/images/payments-mode-selection.png)  
   *The payment mode selection screen, allowing users to choose their preferred method.*
 
 📊 **Real-Time Updates**  
